@@ -1160,7 +1160,7 @@ svg path {
 }
 #three-slide .wrapper .slider .back {
   left: 0;
-  opacity: 1;
+  opacity: 0;
 }
 #three-slide .wrapper .slider .current {
   left: 50%;
@@ -1170,7 +1170,7 @@ svg path {
 }
 #three-slide .wrapper .slider .front {
   right: 0;
-  opacity: 1;
+  opacity: 0;
 }
 @media (max-width: 767px) {
   #three-slide .wrapper .slider {
